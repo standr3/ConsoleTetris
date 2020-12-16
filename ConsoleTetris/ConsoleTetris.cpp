@@ -17,4 +17,5 @@ int main()
 	tetromino[5].append(L".X...X...XX.....");
 	tetromino[6].append(L"..X...X..XX.....");
 
+	return 0;
 }
