@@ -8,8 +8,8 @@ wstring tetromino[7];
 int main()
 {
     
-    // Create assets
-	tetromino[0].append(L"..X...X...X...X."); // Tetronimos 4x4
+    
+	tetromino[0].append(L"..X...X...X...X."); 
 	tetromino[1].append(L"..X..XX...X.....");
 	tetromino[2].append(L".....XX..XX.....");
 	tetromino[3].append(L"..X..XX..X......");
